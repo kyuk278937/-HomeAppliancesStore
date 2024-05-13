@@ -21,10 +21,12 @@ body{
     color: #e9e3e3;
 }
 
-.line{
+#goods{
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
+
 
 .title{
     display: flex;
