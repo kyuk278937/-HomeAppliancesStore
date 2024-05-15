@@ -55,9 +55,10 @@ let goodsDiv = document.getElementById("goods");
 
 let goodsArray = [
     "Корм для котів Мяу з м'ясом 300 г",
-    'Кошачий корм Whiskas желе с курицей 85г',
+    'Котячий корм Whiskas желе з куркою 85г',
     'Сухий корм для дорослих котів Purina Cat Chow Adult',
     "Купити котячий корм Pro Plan Delicate з м'ясом індички",
+    "Корм для котів Gourmet Perle Лосось та сайда пауч 85 г",
 ]
 goodsArray = goodsArray.sort()
 
