@@ -76,14 +76,57 @@ let goodsArray = [
         name: "Купити котячий корм Pro Plan Delicate з м'ясом індички",
         price: 2650,
         discount_price: 2554.40,
-        coupon_price: 80,
+        coupon_price: 2554.40,
     },
     {
         name: "Корм для котів Gourmet Perle Лосось та сайда пауч 85 г",
         price: 21,
         discount_price: 18,
-        coupon_price: 80,
+        coupon_price: 18,
     },
+    {
+        name: "Royal Canin Sensible 33",
+        price: 210,
+        discount_price: 178.50,
+        coupon_price: 178.50,
+    },
+    {
+        name: "Royal Canin Exigent Savour Sensation",
+        price: 210,
+        discount_price: 178.50,
+        coupon_price: 178.50,
+    },
+    {
+        name: "Royal Canin Hairball Care",
+        price: 245,
+        discount_price: 208.25,
+        coupon_price: 208.25,
+    },
+    {
+        name: "Клуб 4 лапи Premium з куркою для дорослих котів",
+        price: 2154,
+        discount_price: 1856,
+        coupon_price: 1856,
+    },
+    {
+        name: "Royal Canin Kitten Sterilised Сухий корм для стерилізованих кошенят 2 кг",
+        price: 890,
+        discount_price: 850,
+        coupon_price: 850,
+    },
+    {
+        name: "Brit Care Cat Grain Free Sterilized Sensitive",
+        price: 822,
+        discount_price: 698.70,
+        coupon_price: 698.70,
+    },
+    {
+        name: "Brit Care Cat Grain Free Sensitive Insect & Fresh Herring",
+        price: 21,
+        discount_price: 824,
+        coupon_price: 700.40,
+    },
+
 ]
 goodsArray = goodsArray.sort()
 
